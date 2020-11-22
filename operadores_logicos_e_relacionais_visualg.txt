@@ -1,0 +1,12 @@
+OPERADORES LÓGICOS NO VISUALG
+
++ -> adição
+- -> subtração
+/ -> divisão
+\ ou div -> divisão inteira
+% ou mod -> resto da divisão
+raiz quadrada -> raizq
+
+<> -> diferente de
+e -> e
+ou -> ou
