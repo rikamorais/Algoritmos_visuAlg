@@ -6,6 +6,7 @@ OPERADORES LÓGICOS NO VISUALG
 \ ou div -> divisão inteira
 % ou mod -> resto da divisão
 raiz quadrada -> raizq
+Exp (a,x) -> potênciação
 
 <> -> diferente de
 e -> e
